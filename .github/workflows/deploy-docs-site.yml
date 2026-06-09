@@ -23,7 +23,7 @@ jobs:
           # 选择要使用的 node 版本
           node-version: 22
 
-      - uses: pnpm/action-setup@v4
+      - uses: pnpm/action-setup@v6
         name: Install pnpm
         with:
           run_install: false

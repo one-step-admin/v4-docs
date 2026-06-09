@@ -21,15 +21,6 @@ hero:
     - theme: alt
       text: 更新日志
       link: /guide/changelog
-    - theme: cta buy
-      text: 购买合集，优惠更多
-      link: /buy
-    - theme: cta
-      text: 演示地址：基础版 ↗
-      link: https://one-step-admin.hurui.me/basic-example
-    - theme: cta
-      text: 演示地址：专业版 ↗
-      link: https://one-step-admin.hurui.me/pro-example
 
 features:
 - icon: 💪
