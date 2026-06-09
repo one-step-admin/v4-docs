@@ -2,44 +2,7 @@
 
 ## 源码
 
-阅读开发文档前，请确保手上已经有 One-step-admin 源码，因为文档中提及的内容，都是需要在本地项目中编写或修改代码并运行才能呈现的。如果还没有源码，可以通过下面两种方式获取：
-
-### 基础版
-
-:::tip 说明
-- **框架源码** 不含示例代码，可直接用于实际开发
-- **演示源码** 同演示站，在框架源码基础上，提供了大量示例代码
-:::
-
-到 [Github Releases](https://github.com/one-step-admin/basic/releases) 页面下载最新版本的压缩包，如下图所示：
-
-![](/download.png){data-zoomable}
-
-或者也可以从 Github/Gitee 上拉取源码，但需要注意的是，这种方式拉取的是最新的代码，而不是稳定版本，可能会存在一些问题，所以请谨慎使用。
-
-::: code-group
-
-```sh [从 Github 拉取]
-# 拉取框架源码
-git clone https://github.com/one-step-admin/basic.git
-# 拉取演示源码
-git clone -b example https://github.com/one-step-admin/basic.git
-```
-
-```sh [从 Gitee 拉取]
-# 拉取框架源码
-git clone https://gitee.com/one-step-admin/basic.git
-# 拉取演示源码
-git clone -b example https://gitee.com/one-step-admin/basic.git
-```
-
-:::
-
-### 专业版
-
-专业版用户会邀请加入到私有组织，获取源码的方式和基础版一致，只是仓库地址不同。
-
-如果你想获取专业版源码，可以点[这里](../buy)去购买。
+阅读开发文档前，请确保手上已经有 One-step-admin 源码，因为文档中提及的内容，都是需要在本地项目中编写或修改代码并运行才能呈现的。
 
 ## 开发环境
 
